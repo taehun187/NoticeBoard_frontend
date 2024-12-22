@@ -6,7 +6,7 @@ React 기반의 사용자 인터페이스(UI)입니다.
   - Axios: API 호출 및 데이터 통신.
   - React Router: 라우팅 처리.
   - CKEditor: 게시글 작성 시 WYSIWYG 에디터 제공.
-  
+   
 - **폴더 구조**:
   ```
   frontend/
